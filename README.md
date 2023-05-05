@@ -2,11 +2,11 @@
 - 👀 ¿QUIEN SOY?
 <br>¡Hola! Mi nombre es Francisco y soy un programador Full Stack enfocado principalmente en el desarrollo de front-end. Me inicié en esta carrera hace aproximadamente un año y desde entonces, he estado enamorado de la programación.
  <br>
--🌱  ¿Que Hago?
+- 🌱  ¿Que Hago?
 <br>
  Mi principal objetivo es crecer y mejorar en mi campo, y para ello, me he enfocado en terminar mis estudios como Programador Full Stack y en la creación de proyectos completos que me ayuden a seguir desarrollando mis habilidades.
  <br>
-- 💞️ ¿A Donde Me dirijo?
+-  💞️ ¿A Donde Me dirijo?
 <br>Actualmente mi objetivo es conseguir un trabajo que me ayude a conseguir experiencia y mejorar las técnicas y conocimientos en programación.
  <br>
 <h3 align="left">Languages and Tools:</h3>
